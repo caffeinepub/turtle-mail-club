@@ -11,7 +11,7 @@ export interface ProductData {
 export const PRODUCTS: ProductData[] = [
   {
     id: 1n,
-    name: "Botanical Postcards",
+    name: "Postcards",
     description:
       "Nature-inspired postcards printed on heavyweight matte cardstock. Perfect for sending a little piece of the world.",
     price: 149,
@@ -21,7 +21,7 @@ export const PRODUCTS: ProductData[] = [
   },
   {
     id: 2n,
-    name: "Handwritten Letter",
+    name: "Handwritten Letters",
     description:
       "A personal, hand-penned letter crafted with care — a heartfelt message written just for you.",
     price: 299,
@@ -31,7 +31,7 @@ export const PRODUCTS: ProductData[] = [
   },
   {
     id: 3n,
-    name: "Sticker Collection",
+    name: "Stickers",
     description:
       "Premium stickers with turtles, botanical motifs, and cozy mail scenes. Great for journals and letters.",
     price: 99,
@@ -40,7 +40,7 @@ export const PRODUCTS: ProductData[] = [
   },
   {
     id: 4n,
-    name: "Paper Bookmarks",
+    name: "Bookmarks",
     description:
       "Handcrafted thick paper bookmarks with beautiful botanical illustrations. A lovely little companion for your books.",
     price: 149,
@@ -49,7 +49,7 @@ export const PRODUCTS: ProductData[] = [
   },
   {
     id: 5n,
-    name: "Seasonal Mail Kit",
+    name: "Mail Kit",
     description:
       "A curated box with postcards, stickers, a handwritten note, paper bookmarks, and a surprise wax seal.",
     price: 899,
